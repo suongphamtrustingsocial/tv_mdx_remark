@@ -1,4 +1,4 @@
-const debug = require("debug")("dwolla-mdx-remark");
+const debug = require("debug")("tv_mdx_remark");
 const remarkPlugin = require("./remark-plugin");
 
 module.exports = (pluginOptions = {}) => (nextConfig = {}) => ({

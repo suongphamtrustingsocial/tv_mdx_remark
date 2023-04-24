@@ -1,11 +1,10 @@
 {
-  "name": "dwolla-mdx-remark",
+  "name": "tv_mdx_remark",
   "version": "1.1.0",
-  "description": "NextJS MDX remark plugin used as a replacement for next-mdx-enhanced in Dwolla's developer portal",
+  "description": "MDX remark plugin used as a replacement for next-mdx-enhanced",
   "license": "MIT",
-  "author": "Dwolla, Inc. (https://dwolla.com)",
   "contributors": [
-    "James Coon <jcoon@dwolla.com>"
+    "Suong Pham <suong.pham@trustingsocial.com>"
   ],
   "main": "src/index.js",
   "files": [

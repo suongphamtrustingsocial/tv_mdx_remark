@@ -1,4 +1,4 @@
-const debug = require("debug")("dwolla-mdx-remark");
+const debug = require("debug")("tv_mdx_remark");
 const glob = require("glob");
 const matter = require("gray-matter");
 const path = require("path");
